@@ -5,9 +5,9 @@ I'm Jaxadev and I'm currently learning android programming.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mannonov&show_icons=true&theme=dracula)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mannonov&theme=dracula">
-<div align="center">
-  <img src="https://github.com/jenyasubbotina/jenyasubbotina/blob/main/source.gif" width="300" height="300">
-</div>
+<a href="https://github.com/jenyasubbotina">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jenyasubbotina&layout=compact" />
+</a>
 
 **My Skills:**
 >* <img src="https://www.shareicon.net/data/2015/09/17/102407_java_512x512.png" alt="Java" width="21px" height="21px"> - `Java` Programming Language
