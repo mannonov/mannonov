@@ -17,4 +17,4 @@ I'm Jaxadev and I'm currently learning android programming.
 >* <img src="https://freepngimg.com/thumb/android/58546-google-mobile-app-application-studio-android-software.png" alt="Services" width="21px" height="21px"> - `Services` Android Instruments
 >* <img src="https://raw.githubusercontent.com/irontec/android-mvvm-example/master/logo.png" alt="MVVM" width="21px" height="21px"> - `MVVM` Pattern
 >* <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Firebase" width="21px" height="21px"> - `Firebase` Tool
-![Profile views](https://gpvc.arturio.dev/mannonov)
+>* ![Profile views](https://gpvc.arturio.dev/mannonov)
